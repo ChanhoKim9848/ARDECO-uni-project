@@ -2,7 +2,7 @@
 
 ### Platform Unity Engine, Android Studio
 ### Programming Language: Java, C#
-### Data: Date: 1 June, 2021
+### Date: 1 June, 2021
 ### ARDeco.apk file for installation on Android Devices
 
 
