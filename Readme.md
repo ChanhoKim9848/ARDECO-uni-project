@@ -110,6 +110,11 @@ Replace the placeholder images below with real screenshots of your app for the G
 This project is for educational and portfolio purposes. © 2021 Chanho Kim.
 
 
+---
+---
+---
+---
+---
 
 
 # 🌟 AR DECO App
