@@ -77,7 +77,7 @@ Replace the placeholder images below with real screenshots of your app for the G
 
 | Main Scene | AR Scene | Object Placement |
 |------------|----------|------------------|
-| ![Main Scene](docs/images/main-scene.png) | ![AR Scene](docs/images/ar-scene.png) | ![Placement](docs/images/object-placement.png) |
+| ![Main Scene](images/main-scene.png) | ![AR Scene](images/ar-scene.png) | ![Placement](images/object-placement.png) |
 
 > 🖼️ **Tip:** Create a `docs/images` folder in your repo and upload actual PNG/JPG screenshots with these filenames.
 
@@ -110,11 +110,27 @@ Replace the placeholder images below with real screenshots of your app for the G
 This project is for educational and portfolio purposes. © 2021 Chanho Kim.
 
 
----
----
----
----
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 🌟 AR DECO App
@@ -196,7 +212,7 @@ This project is for educational and portfolio purposes. © 2021 Chanho Kim.
 
 | 메인 화면 | AR 화면 | 오브젝트 배치 |
 |-----------|---------|--------------|
-| ![Main Scene](docs/images/main-scene.png) | ![AR Scene](docs/images/ar-scene.png) | ![Placement](docs/images/object-placement.png) |
+| ![Main Scene](images/main-scene.png) | ![AR Scene](images/ar-scene.png) | ![Placement](images/object-placement.png) |
 
 > 🖼️ **팁:** `docs/images` 폴더를 생성 후 실제 스크린샷 파일(`.png`/`.jpg`)을 업로드하세요.
 
